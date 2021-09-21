@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey
 
 <!--
 **unterflieger/unterflieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm 15 years old, live in Berlin (Germany) and i'm currently learning Python.
+
+How to reach me:
+    
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unterflieger&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unterflieger)](https://github.com/anuraghazra/github-readme-stats)
