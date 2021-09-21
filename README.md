@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm 15 years old, live in Berlin (Germany) and i'm currently learning Python.
 
-How to reach me:
+How to reach me: [Discord](discord.com/users/307528055516168206)
     
 
 
