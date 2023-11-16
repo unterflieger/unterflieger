@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm 17 years old, live in Berlin (Germany) and i'm currently:
-
+I'm 17 years old, live in Berlin (Germany) and i'm currently:    (yes im going to keep updating this)
+<br>
 ~~learning how to use Lua!~~
-
+<br>
 ~~doing absolutely nothing.~~
-
+<br>
 ~~learning Java!~~
-
+<br>
 learning a bit of Visual Basic .NET!
 
-(yes im going to keep updating this)
+
 
 How to reach out to me: [Discord](https://discord.com/users/307528055516168206/) 
     
