@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm 17 years old, live in Berlin (Germany) and i'm currently:
+I'm 18 years old, live in Berlin (Germany) and i'm currently:
 <br>
 (yes im going to keep updating this)
 <br>
