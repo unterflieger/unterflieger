@@ -25,7 +25,7 @@ I'm 18 years old, live in Berlin (Germany) and i'm currently:
 <br>
 ~~learning Java!~~
 <br>
-learning a bit of Visual Basic .NET!
+~~learning a bit of Visual Basic .NET!~~
 
 
 
