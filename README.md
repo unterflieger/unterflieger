@@ -26,7 +26,8 @@ I'm 18 years old, live in Berlin (Germany) and i'm currently:
 ~~learning Java!~~
 <br>
 ~~learning a bit of Visual Basic .NET!~~
-
+<br>
+nothing
 
 
 How to reach out to me: [Discord](https://discord.com/users/307528055516168206/) 
